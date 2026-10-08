@@ -12,7 +12,7 @@ export const holidays = [
   { id: '2026-midautumn', name: '中秋節・教師節', start: '2026-09-25', end: '2026-09-28' },
   { id: '2026-national', name: '國慶日', start: '2026-10-09', end: '2026-10-11' },
   { id: '2026-retro', name: '光復節', start: '2026-10-24', end: '2026-10-26' },
-  { id: '2026-constitution', name: '行憲紀念日', start: '2026-12-25', end: '2026-12-27' },
+  { id: '2026-constitution', name: '聖誕節', start: '2026-12-25', end: '2026-12-27' },
 
   { id: '2027-newyear', name: '開國紀念日', start: '2027-01-01', end: '2027-01-03' },
   { id: '2027-cny', name: '農曆春節', start: '2027-02-04', end: '2027-02-10' },
@@ -21,6 +21,6 @@ export const holidays = [
   { id: '2027-labor', name: '勞動節', start: '2027-04-30', end: '2027-05-02' },
   { id: '2027-national', name: '國慶日', start: '2027-10-09', end: '2027-10-11' },
   { id: '2027-retro', name: '光復節', start: '2027-10-23', end: '2027-10-25' },
-  { id: '2027-constitution', name: '行憲紀念日', start: '2027-12-24', end: '2027-12-26' },
+  { id: '2027-constitution', name: '聖誕節', start: '2027-12-24', end: '2027-12-26' },
   { id: '2028-newyear', name: '開國紀念日', start: '2027-12-31', end: '2028-01-02' },
 ]
